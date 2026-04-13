@@ -100,7 +100,7 @@ function PerfilClienteRadial() {
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <div className="text-center max-w-3xl mx-auto mb-6">
-        <h2 className="text-3xl font-bold text-slate-900 mb-4">Ecosistema del Cliente: El Speaker</h2>
+        <h2 className="text-3xl font-bold text-slate-900 mb-4">Perfil del Cliente: El Speaker</h2>
         <p className="text-slate-600 text-lg">
           Mapa visual de los trabajos, dolores y ganancias del cliente. Los elementos resaltados son aquellos que la propuesta de valor de <strong>Zaple</strong> resuelve directamente.
         </p>
